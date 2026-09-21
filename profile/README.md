@@ -21,5 +21,7 @@ CP Next คือชมรมภายใต้ **CM HUB** สำหรับน
 ## Join us
 
 - GitHub: [CPNext-hub](https://github.com/CPNext-hub/.github)
+- Discord: [เข้าร่วม Discord](https://get-qr.com/wZ4OZ7)
+- Messenger: [ติดต่อผ่าน Messenger](https://get-qr.com/rUkO6_)
 
 มีไอเดีย อยากสร้างอะไร หรืออยากเริ่มเขียนโค้ด? **มา Join CP Next กันได้เลย!**
